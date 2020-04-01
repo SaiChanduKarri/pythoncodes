@@ -1,2 +1,3 @@
 a = input()
-print(list(a))
+a = list(a)
+print(','.join(a))
